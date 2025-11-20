@@ -1,0 +1,19 @@
+# API Keys
+.env
+config.py
+*_secret.py
+api_key = 
+
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS Files
+.DS_Store
+Thumbs.db

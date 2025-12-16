@@ -67,5 +67,5 @@ jupyter notebook
 
 ## Video Demonstration
 
-[YouTube Link - to be added after recording]
+[YouTube Link](https://youtu.be/_DsfJAbEZ3o)
 ```
